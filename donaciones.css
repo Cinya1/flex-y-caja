@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(204, 194, 194);
+}
+div{
+    background-color: white;
+    width: 300px;
+    height: 250px;
+    border-radius: 4px;
+    text-align: center;
+    margin: auto;
+    box-shadow: 50px;
+    box-shadow: -4px -1px 20px 2px #0000004a;
+
+}
+button{
+    background-color: blueviolet;
+    width: 200;
+    height: 30px;
+    border: 0px;
+    color: white;
+}
+p{
+    display: inline-block;
+    padding: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: center;
+    padding: 30px 0px 0px 0px;
+}
+.quince{
+    width: 30px;
+    height: 15px;
+    background-color: blueviolet;
+    border-radius: 3px;
+    color: white;
+   
+}

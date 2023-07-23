@@ -1,0 +1,56 @@
+ body{
+    background-color: #ADB0BD;
+ }
+ div{
+    background-color: rgb(241, 235, 235);
+    width: 400px;
+    height: 600px;
+    text-align: center;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+ }
+ h1{
+    
+    font-size: large;
+    /* padding: 30px; */
+
+}
+img{
+    margin: 40px;
+    
+}
+button{
+    background-color: gray;
+    
+}
+.confirmar{
+    background-color: white;
+    border-radius: 10px;
+    border: white ;
+    width: 100px;
+    height: 25px;
+    color: rgb(82, 77, 77);
+    display: inline;
+    display: block;
+    margin: auto;
+    
+}
+.update{
+    color: white;
+    border-radius: 10px;
+    border: none;
+    width: 150px;
+    height: 25px;
+    display: block;
+    margin: auto;
+    
+}
+p{
+    margin: auto;
+    padding: 39px;
+    text-align: center;
+}
+h2{
+    font-size: medium;
+}

@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient(45deg, #16a3cd, #16d7be);
+}
+.caja{
+    width:600px ;
+    height: 450px;
+    margin: auto;
+    background-color: white;
+    border-radius: 3px;
+    box-shadow: 1px -1px 18px 0px #0000002b;
+
+
+}
+.cajita{
+    margin: 30px 40px ;
+    
+    
+}
+h1{
+    padding: 20px 0px 10px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+}
+.cajis{
+    width: 350px;
+    height: 50px;
+    border: #16a3cd 1px solid;
+    border-radius: 10px;
+    border-left: 5px solid violet;
+    padding: 20px;
+    margin: 0px 0px 20px;
+    
+    
+
+}
+.parrafo{
+    padding: 3px 10px;
+    border: rgba(41, 41, 40, 0.199) solid;
+    display: inline-block;
+    margin: 31px 80px ;
+    box-shadow: 30px;
+
+}

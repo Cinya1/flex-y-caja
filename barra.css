@@ -1,0 +1,62 @@
+/* <!-- Creá 5 barras de progreso usando un div dentro de otro
+Las barras deben tener 500px de ancho y 30px de alto
+La barra de fondo debe tener un color y la que indica el progreso otro
+Poner los siguientes progresos en cada barra: 10%, 25%, 50%, 75%, 90%
+Agregale tanto a la barra contenedora como a la de progreso un border-radius de 100px
+Agregarle a la barra contenedora un padding de 3px -->
+<html> */
+
+.contenedora{
+    width: 500px;
+    height: 30px;
+    background-color: black;
+    border-radius: 100px;
+    padding: 3px;
+    display: flex;
+}
+.amarillo{
+    width: 80px;
+    height: 22px;
+    background-color: yellow;
+    border-radius: 100px;
+    padding: 3px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.naranja{
+    width: 140px;
+    height: 22px;
+    background-color: orangered;
+    border-radius: 100px;
+    padding: 3px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}.rojo{
+    width: 230px;
+    height: 22px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 100px;
+    padding: 3px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.violeta{
+    width: 340px;
+    height: 22px;
+    background-color: rgb(255, 0, 200);
+    border-radius: 100px;
+    padding: 3px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.verde{
+    width: 500px;
+    height: 22px;
+    background-color: rgb(0, 255, 21);
+    border-radius: 100px;
+    padding: 3px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}

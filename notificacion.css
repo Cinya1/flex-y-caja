@@ -1,0 +1,51 @@
+body{
+
+    /* padding: 300px; */
+    background-color: grey;
+   
+    }
+    
+    div{
+        box-shadow: 2px 2px 2px 2px #00000080;
+        background-color: white;
+        width: 350;
+        height: 400;
+        /* falta colocar flex para centrar */
+        margin: auto;
+        text-align: left;
+        padding: 20px 50px;
+       
+    }
+    img{
+        text-align: right;
+        
+
+    }
+    a{
+        text-decoration: none;
+        color: #5888DA;
+    }
+    h1{
+       margin: 0px;
+    }
+    button{
+
+        color: white;
+        background: linear-gradient(45deg, #1f4ed3, #38c3bd);
+        width: 90px;
+       height: 35px;
+       padding-inline-start: 10px;
+       border-radius: 4px;
+       border: 0px;
+       display: inline-block;
+       
+     
+      
+    }
+    p{
+        padding: 0%;
+    }
+    span{
+        padding-inline-start: 10px;
+    }
+    
